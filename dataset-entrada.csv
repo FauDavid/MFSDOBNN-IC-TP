@@ -1,0 +1,9 @@
+Calidad de los Datos [DQ],Nivel de Recursos [RL],Tipo de Desarrollo [DT],Plataforma de Desarrollo [DP],Tipo de Lenguaje [LT],DBMS [DB],CASE [UC],Duración del proyecto en Meses [ET],Líneas de Código [LC]
+B,1,Data Warehouse system,,Shell script,,,"4,3",
+B,1,Sales contact management,SoralisWindows 95/Windows 98,Java,Yes,No,7,
+B,1,Customer relationship management,,Siebel,,,"4,9",
+B,1,Financial transaction process/accounting,z/OS,COBOL,,,,
+D,1,Financial transaction process/accounting,Windows NT 4.0,VB,Yes,No,"2,6",
+B,1,,,,,,20,,92380
+B,4,Management Information SystemLinguistic Software,"Windows NT, W2KMacOS9",,Yes,,"2,8",1250
+B,1,Transaction/Production System,,ADS,,No,4,
