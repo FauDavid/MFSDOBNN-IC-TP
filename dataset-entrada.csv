@@ -1,9 +1,9 @@
 DQ,RL,DT,DP,LT,DB,UC,ET,LC
-B,1,Data Warehouse system,desconocido,Shell script,desconocido,desconocido,4.3,desconocido
-B,1,Sales contact management,SoralisWindows 95/Windows 98,Java,Yes,No,7,desconocido
-B,1,Customer relationship management,desconocido,Siebel,desconocido,desconocido,4.9,desconocido
-B,1,Financial transaction process/accounting,z/OS,COBOL,desconocido,desconocido,desconocido,desconocido
-D,1,Financial transaction process/accounting,Windows NT 4.0,VB,Yes,No,2.6,desconocido
-B,1,desconocido,desconocido,desconocido,desconocido,desconocido,20,desconocido
+B,1,Data Warehouse system,desconocido,Shell script,desconocido,desconocido,4.3,0
+B,1,Sales contact management,SoralisWindows 95/Windows 98,Java,Yes,No,7,0
+B,1,Customer relationship management,desconocido,Siebel,desconocido,desconocido,4.9,0
+B,1,Financial transaction process/accounting,z/OS,COBOL,desconocido,desconocido,0,0
+D,1,Financial transaction process/accounting,Windows NT 4.0,VB,Yes,No,2.6,0
+B,1,desconocido,desconocido,desconocido,desconocido,desconocido,20,0
 B,4,Management Information SystemLinguistic Software,Windows NT. W2KMacOS9,desconocido,Yes,desconocido,2.8,1250
-B,1,Transaction/Production System,desconocido,ADS,desconocido,No,4,desconocido
+B,1,Transaction/Production System,desconocido,ADS,desconocido,No,4,0
