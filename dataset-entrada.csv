@@ -1,9 +1,9 @@
-DQ,RL,DT,DP,LT,DB,UC,ET,LC
-B,1,Data Warehouse system,unknown,Shell script,unknown,unknown,4.3,0
-B,1,Sales contact management,SoralisWindows 95/Windows 98,Java,Yes,No,7,0
-B,1,Customer relationship management,unknown,Siebel,unknown,unknown,4.9,0
-B,1,Financial transaction process/accounting,z/OS,COBOL,unknown,unknown,0,0
-D,1,Financial transaction process/accounting,Windows NT 4.0,VB,Yes,No,2.6,0
-B,1,unknown,unknown,unknown,unknown,unknown,20,0
-B,4,Management Information SystemLinguistic Software,Windows NT. W2KMacOS9,unknown,Yes,unknown,2.8,1250
-B,1,Transaction/Production System,unknown,ADS,unknown,No,4,0
+DQ,RL,DT,DP,LT,DB,UC,ET,LC,SW
+B,1,Data Warehouse system,unknown,Shell script,unknown,unknown,4.3,0,266
+B,1,Sales contact management,SoralisWindows 95/Windows 98,Java,Yes,No,7,0,18160
+B,1,Customer relationship management,unknown,Siebel,unknown,unknown,4.9,0,2422
+B,1,Financial transaction process/accounting,z/OS,COBOL,unknown,unknown,0,0,7449
+D,1,Financial transaction process/accounting,Windows NT 4.0,VB,Yes,No,2.6,0,596
+B,1,unknown,unknown,unknown,unknown,unknown,20,0,92380
+B,4,Management Information SystemLinguistic Software,Windows NT. W2KMacOS9,unknown,Yes,unknown,2.8,1250,460
+B,1,Transaction/Production System,unknown,ADS,unknown,No,4,0,271
