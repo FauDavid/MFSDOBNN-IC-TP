@@ -1,0 +1,65 @@
+DQ,RL,DT,DP,LT,DB,UC,ET,LC,SW
+B,2,Enhacement,Multi,4GL,Y,Y,14,1027,8294
+C,1,Enhacement,Mid Range,4GL,N,N,1,1035,18397
+D,2,Enhacement,MF,4GL,Y,N,16,124,12534
+C,2,Re-Development,Mid Range,App Generator,Y,Y,19,1195,8872
+A,4,New Development,MF,4GL,N,Y,0,1060,14997
+D,3,Enhacement,Multi,3GL,N,N,2,1436,4359
+B,4,Enhacement,MF,4GL,Y,N,8,230,16331
+D,2,Enhacement,Mid Range,4GL,N,Y,7,1247,18751
+C,4,Re-Development,PC,App Generator,N,Y,0,86,12274
+B,4,Re-Development,Multi,3GL,Y,Y,1,478,11883
+A,4,New Development,PC,App Generator,N,N,11,1038,2401
+B,2,Re-Development,PC,3GL,Y,N,12,80,10902
+D,1,Re-Development,Mid Range,App Generator,Y,Y,16,692,6400
+A,3,Re-Development,MF,3GL,Y,N,20,120,15855
+D,1,New Development,Multi,3GL,Y,N,13,894,14492
+A,3,Enhacement,Multi,4GL,N,N,2,678,9669
+C,3,Re-Development,MF,App Generator,Y,Y,19,584,13588
+B,3,Enhacement,Mid Range,4GL,N,N,8,998,9890
+A,2,New Development,Multi,4GL,N,Y,10,946,3306
+C,2,Enhacement,Multi,3GL,N,N,15,938,12190
+C,1,Enhacement,MF,App Generator,N,Y,18,1479,18940
+D,1,New Development,Multi,3GL,Y,Y,20,35,2626
+A,1,Re-Development,PC,App Generator,Y,Y,8,418,8182
+C,1,Enhacement,PC,App Generator,Y,N,9,431,9058
+B,3,New Development,Multi,3GL,N,Y,15,585,16235
+C,1,Re-Development,PC,4GL,Y,Y,16,723,11295
+A,4,Enhacement,PC,4GL,N,N,0,1191,11514
+A,4,New Development,MF,4GL,Y,Y,0,1005,5101
+B,4,New Development,PC,3GL,Y,N,2,1106,17096
+D,2,Re-Development,Multi,3GL,Y,Y,10,1343,19798
+A,2,New Development,MF,4GL,N,Y,4,1466,17724
+C,3,Re-Development,MF,App Generator,Y,N,15,71,3867
+A,3,New Development,Mid Range,3GL,Y,Y,5,532,13634
+A,1,Re-Development,PC,3GL,N,N,18,1340,16832
+C,4,New Development,PC,App Generator,N,N,3,1303,10106
+B,2,New Development,MF,App Generator,N,N,5,1028,17922
+B,3,New Development,Multi,App Generator,Y,Y,15,761,5500
+D,4,New Development,PC,App Generator,Y,N,16,307,12345
+C,3,Enhacement,MF,3GL,N,N,8,1244,7805
+B,2,Re-Development,Multi,4GL,Y,N,11,1011,5668
+D,4,Re-Development,MF,App Generator,Y,Y,3,403,16363
+C,2,Enhacement,MF,App Generator,Y,N,9,1148,15908
+A,4,Re-Development,Multi,App Generator,N,N,6,1290,19516
+C,3,Enhacement,PC,3GL,Y,Y,11,320,7390
+A,4,Re-Development,PC,4GL,Y,Y,4,966,3272
+C,4,Enhacement,Multi,3GL,Y,Y,20,30,10468
+D,3,New Development,MF,App Generator,N,Y,15,181,15957
+D,3,Enhacement,Mid Range,App Generator,Y,N,13,681,1304
+C,2,Re-Development,MF,App Generator,Y,Y,3,15,10079
+D,1,New Development,Multi,App Generator,Y,N,9,568,6878
+C,2,Re-Development,Multi,4GL,N,N,7,1325,14614
+B,1,Re-Development,MF,4GL,Y,Y,12,1365,11494
+A,4,New Development,PC,App Generator,Y,Y,0,624,2820
+C,2,Enhacement,Mid Range,4GL,N,N,14,777,8749
+B,1,Enhacement,Multi,4GL,N,Y,20,1468,4289
+A,3,Enhacement,MF,4GL,Y,Y,18,1460,8899
+B,1,New Development,Mid Range,App Generator,Y,N,17,95,17745
+D,2,New Development,Multi,3GL,Y,N,15,957,15521
+B,4,Re-Development,MF,4GL,Y,N,14,228,11943
+B,1,New Development,MF,4GL,N,N,9,288,17076
+B,3,Enhacement,MF,App Generator,Y,Y,11,1250,18326
+B,3,Enhacement,PC,3GL,N,N,14,1419,5999
+A,3,New Development,PC,3GL,Y,N,15,891,17525
+B,3,Re-Development,PC,3GL,Y,N,12,3,5782
